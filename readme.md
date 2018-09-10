@@ -26,8 +26,8 @@
 ### Technical
 
 * CS-Club to hold online coding competion on Hacker Rank on 11th September.
-* EDC club hold first session on 10th September.
-* SAE Ingenium club hold first session on 6th September.
+* EDC club holds first session on 10th September.
+* SAE Ingenium club holds first session on 6th September.
 
 ### Mess
 
@@ -38,8 +38,10 @@
 
 * Pest control to start on 15th September
 * Night Cafeteria started hostel delivery to first year students.
-* 4 new focus lights isntalled on road outside Ashwatha
+* 4 new focus lights installed on road outside Ashwatha
 * Hygiene check done in Night Cafeteria.
+
+
 
 <!-- ## August 18 -->
 
